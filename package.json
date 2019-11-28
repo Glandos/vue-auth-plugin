@@ -43,7 +43,7 @@
     "@vue/cli-plugin-unit-jest": "4.0.5",
     "@vue/cli-plugin-vuex": "4.0.5",
     "@vue/cli-service": "4.0.5",
-    "@vue/test-utils": "1.0.0-beta.29",
+    "@vue/test-utils": "1.0.0-beta.30",
     "axios": "0.19.0",
     "axios-mock-adapter": "1.17.0",
     "babel-core": "7.0.0-bridge.0",
@@ -65,7 +65,7 @@
     "vue-axios": "2.1.5",
     "vue-cli-plugin-p11n": "0.4.0",
     "vue-template-compiler": "2.6.10",
-    "vuex": "3.1.1"
+    "vuex": "3.1.2"
   },
   "homepage": "https://d0whc3r.github.io/vue-auth-plugin",
   "jest-junit": {
